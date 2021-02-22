@@ -2,7 +2,8 @@
 layout: post
 title:  "Welcome to my new blog!"
 date:   2021-02-21 18:04:03 +0800
-categories: 目标
+categories: Goals
+tags: [self-introduction, plan]
 ---
 
 打招呼，自我介绍   
