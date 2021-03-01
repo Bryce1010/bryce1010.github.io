@@ -21,11 +21,11 @@ tags: [Federated Learning, review]
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a2e3fe5f-99c1-418b-a4c4-86107bc06c52/Untitled.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a2e3fe5f-99c1-418b-a4c4-86107bc06c52/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210222%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210222T090525Z&X-Amz-Expires=86400&X-Amz-Signature=56096594baac20b32b3b08e1500b0da79c80d676e24c7ddf59a225938326ef2c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-            cross-silo or Horizontal
+                  cross-silo or Horizontal
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f5e8bde-eb1f-444c-8a14-44ccce8590de/Untitled.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0f5e8bde-eb1f-444c-8a14-44ccce8590de/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210222%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210222T090617Z&X-Amz-Expires=86400&X-Amz-Signature=c9e1beb68416a087b0ec1f73a4a79ba2bb92b68f973a2ef7b3a91d8105f99588&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-Horizontal交换的是参数
+            Horizontal交换的是参数
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/406095ef-c37f-4463-be39-d32029d209a7/Untitled.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/406095ef-c37f-4463-be39-d32029d209a7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210222%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210222T090549Z&X-Amz-Expires=86400&X-Amz-Signature=ce9d5842d7587b19ee129a8d2480dd87c0dcd6f2880a5f0b46884d6a4b7da4f1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
